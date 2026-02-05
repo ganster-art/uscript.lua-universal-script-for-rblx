@@ -1,0 +1,1 @@
+print("uscript.lua test")
