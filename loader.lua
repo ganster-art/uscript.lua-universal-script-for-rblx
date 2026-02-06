@@ -1,4 +1,3 @@
--- https://discord.gg/tUEJZYvF9d
 local executor = string.lower(identifyexecutor and identifyexecutor() or "")
 local source = game:HttpGet("https://raw.githubusercontent.com/ganster-art/uscript.lua-universal-script-for-rblx/refs/heads/main/uscript.lua")
 local threadSource = [[
