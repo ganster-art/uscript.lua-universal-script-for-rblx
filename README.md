@@ -6,5 +6,5 @@
 > **How to use it?**
 > **Copy loadstring and paste it in executor:**
 > ```lua
-> loadstring(game:HttpGet("[https://raw.githubusercontent.com/ganster-art/uscript.lua-universal-script-for-rblx/refs/heads/main/uscript.lua](https://raw.githubusercontent.com/ganster-art/uscript.lua-universal-script-for-rblx/refs/heads/main/uscript.lua)"))()
+> loadstring(game:HttpGet("[https://raw.githubusercontent.com/ganster-art/uscript.lua-universal-script-for-rblx/refs/heads/main/loader.lua](https://raw.githubusercontent.com/ganster-art/uscript.lua-universal-script-for-rblx/refs/heads/main/loader.lua)"))()
 > ```
